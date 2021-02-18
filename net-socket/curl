@@ -1,0 +1,15 @@
+Usage: curl [options...] <url>
+     --abstract-unix-socket <path> Connect via abstract Unix domain socket
+     --alt-svc <file name> Enable alt-svc with this cache file
+     --anyauth       Pick any authentication method
+
+curl -help
+常用命令示例：
+
+1、下载资源包
+curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.6.16.tar.gz
+2、查看服务器资源
+curl https://www.baidu.com
+
+参考链接：https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
+https://catonmat.net/cookbooks/curl
