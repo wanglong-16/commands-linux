@@ -83,3 +83,16 @@ curl -XPUT 'http://39.106.228.247:9200/another_user?pretty' -H 'Content-Type: ap
 5、删除索引
 
 curl -XDELETE 'http://39.106.228.247:9200/twitter'
+
+
+6、查看集群信息
+
+6.1 查看节点
+curl -X GET "http://39.106.228.247:9200/_cat/nodes?v&pretty"
+
+6.2 查看分片
+curl -X GET "http://39.106.228.247:9200/_cat/shards?pretty"
+
+6.3 查看索引
+curl -X GET "http://39.106.228.247:9200/_cat/indices?pretty"
+
