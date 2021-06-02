@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="be5deb4c-05f8-4e9f-aa86-2409545d1eb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net-socket/curl" beforeDir="false" afterPath="$PROJECT_DIR$/net-socket/curl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,10 @@
       <workItem from="1613985881251" duration="292000" />
       <workItem from="1614501411527" duration="3803000" />
       <workItem from="1614564082629" duration="511000" />
-      <workItem from="1614596631416" duration="1502000" />
+      <workItem from="1614596631416" duration="2235000" />
+      <workItem from="1614654442924" duration="5104000" />
+      <workItem from="1614913052359" duration="2151000" />
+      <workItem from="1615882935371" duration="280000" />
     </task>
     <servers />
   </component>
